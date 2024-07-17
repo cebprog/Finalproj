@@ -1,0 +1,9 @@
+.navbar {
+  background: linear-gradient(to bottom, #d3d3d3, #a9a9a9) !important;
+}
+
+.list-group-flush .list-group-item {
+  display: list-item !important;
+  list-style-type: disc !important;
+  list-style-position: inside !important;
+}
